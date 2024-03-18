@@ -21,3 +21,10 @@ Design :
 Design code is written in Verilog language (.v file format). 
 Given an input to D flip flop and the output of flip flop is measured at every positive edge of clock, it is captured in reg Q. Hence, Output is assigned by giving the two inputs, in_1 AND inversion of D flip flop output which is stored in Q.
 When reset is given the output and D-ff should be 0(reset condition at every posedge of clock) .
+
+
+
+Output:
+
+<img width="905" alt="image" src="https://github.com/Akhilesh2709/Edge_Detector/assets/64627151/5325adb3-8321-4888-8c7e-0e7f763cc91e">
+
